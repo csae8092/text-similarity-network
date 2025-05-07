@@ -29,12 +29,12 @@ This project leverages JavaScript, HTML, and CSS to create an efficient and ligh
 
 2. Install dependencies (if any):
    ```bash
-   npm install
+   pnpm install
    ```
 
 3. Open the project in your favorite code editor or serve it locally:
    ```bash
-   npm start
+   pnpm start
    ```
 
 ---
